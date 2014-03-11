@@ -1,10 +1,2 @@
-secret_pw
-EOF
-
-exit
-exit
-
-
-
-
-..
+*.xxx
+target/*

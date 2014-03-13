@@ -5,8 +5,8 @@
 
     <groupId>ohtu</groupId>
     <artifactId>OhtuVarasto</artifactId>
-    <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
+    <version>1.0-SNAPSHOT</version>
 
     <name>OhtuVarasto</name>
     <url>http://maven.apache.org</url>
